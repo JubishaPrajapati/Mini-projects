@@ -1,2 +1,2 @@
 # Mini-projects
-This includes some mini games creaded using basic htm, css and js
+This includes some mini games created using basic html, css and js
